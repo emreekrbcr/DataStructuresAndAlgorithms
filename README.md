@@ -2,7 +2,7 @@
 
 ## *** Explanation in English ***
 
-This is a general Data Structures and Algorithm project with OOP techniques,
+This is a general Data Structures and Algorithm project.
 
 This project was developed by Emre Ekerbiçer and uploaded to GitHub.
 
