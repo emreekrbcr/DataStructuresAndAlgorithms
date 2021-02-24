@@ -1,6 +1,6 @@
 # DataStructuresAndAlgorithms
 
-*** Explanation in English ***
+##*** Explanation in English ***
 
 This is a general Data Structures and Algorithm project with OOP techniques,
 
@@ -14,7 +14,7 @@ It can be useful for who want an idea about the background codes of a data struc
 The project is currently in infancy. New data structures and algorithms will be added soon whenever possible.
 
 
-*** Türkçe Açıklama ***
+##*** Türkçe Açıklama ***
 
 Bu bir genel veri yapıları ve algoritmalar projesidir.
 
